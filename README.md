@@ -1,2 +1,14 @@
 # GAMING
-I've coded these games with python. They aint new but the most important thing is making the code work and making it intelligent..
+
+****List of The Games Coded with Python****
+
+1. Rock Paper Scissors game
+--The gamer choses input as the game instructs when it launches.
+
+2. Guess Game (with number)
+--I developed this game to exercise my looping capability
+
+****BATTLE SHIP GAME****
+This is hude and exciting game project have ever created
+3.Battle Ship Game
+--This game has its descriptions on pdf on the game's folder

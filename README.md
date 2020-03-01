@@ -8,8 +8,7 @@
 2. Guess Game (with number)
 --I developed this game to exercise my looping capability
 
-****BATTLE SHIP GAME****
-This is huge and exciting game project have ever created
-
 3.Battle Ship Game
---This game has its descriptions on pdf on the game's folder
+--This assignment’s target is to create a program in Python coding language, which plays a
+game of battleship. The game is played between the player and the computer or between two
+individual players.

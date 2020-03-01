@@ -9,6 +9,7 @@
 --I developed this game to exercise my looping capability
 
 ****BATTLE SHIP GAME****
-This is hude and exciting game project have ever created
+This is huge and exciting game project have ever created
+
 3.Battle Ship Game
 --This game has its descriptions on pdf on the game's folder
